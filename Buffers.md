@@ -1,6 +1,7 @@
 ## **Pelsue Lab Standard Buffer Recipes:**
 
 **PBS**
+
 To ~500 mL of Miliq H2O add the following:
 80g NaCl
 2g KCl
@@ -11,6 +12,7 @@ Bring volume to 1000mL (Miliq H2O)
 Autoclave
 
 **Electroporation Transfection Buffer**
+
 To ~ 200 mL of Sterile H2O add the following:
 .008g CaCl2
 4.474 KCl
@@ -20,7 +22,8 @@ To ~ 200 mL of Sterile H2O add the following:
 0.768g Glutathione
 .005 K2HPO4/KH2PO4
 
-To prepare K2HPO4/KH2PO4:
+**To prepare K2HPO4/KH2PO4:**
+
 Add 6.8g of KH2PO4  to 50 mL H2O
 Add 8.71g of K2HPO4 to 50 mL H2O
 Add the weak base (K2HPO4) to the weak acid (KH2PO4) until the pH is 7.6- this will take roughly 150 mL of the weak base.
